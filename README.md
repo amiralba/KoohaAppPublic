@@ -50,8 +50,13 @@ KoohaApp simplifies team and player management for lawyers' football tournaments
 Here are screenshots of the application:
 
 1. **Login Page:** Secure login system with CAPTCHA integration.
-2. **Team Player List:** Players listed by team for easier management.
-3. **Admin Dashboard:** Download ID cards or generate player lists.
+   ![Capture d’écran 2024-12-11 à 10 07 05](https://github.com/user-attachments/assets/e1dc599a-bcb3-4e23-b04f-6d1b03936272)
+
+3. **Team Player List:** Players listed by team for easier management.
+   ![Capture d’écran 2024-12-11 à 10 07 47](https://github.com/user-attachments/assets/d278f111-9add-47af-87c4-798c57703bed)
+
+5. **Admin Dashboard:** Download ID cards or generate player lists.
+![Capture d’écran 2024-12-11 à 10 07 26](https://github.com/user-attachments/assets/762e5e59-8ab3-4810-8163-746a990d589e)
 
 ---
 

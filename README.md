@@ -4,6 +4,7 @@
 ## **Project Goal**
 KoohaApp simplifies team and player management for lawyers' football tournaments. It automates the creation of match ID cards for players and provides administrators with tools to download team rosters and ID cards efficiently.
 
+ ## **Due to customer confidentiality, the full code cannot be shared publicly. However, I can provide the code upon request for professional purposes.**
 ---
 
 ## **Key Features**
